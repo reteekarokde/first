@@ -1,3 +1,3 @@
 # first
-This is my git repository
-Ritika Rokde 
+This is my git repository.
+ My name is Ritika Rokde.
